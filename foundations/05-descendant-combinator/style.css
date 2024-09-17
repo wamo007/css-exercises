@@ -1,0 +1,29 @@
+.container .text {
+    background-color: yellow;
+    color: hsl(0, 100%, 50%);
+    font-size: 20px;
+    text-align: center;
+}
+
+/*   OR
+div .text {
+    background-color: yellow;
+    color: hsl(0, 100%, 50%);
+    font-size: 20px;
+    text-align: center;
+}
+
+.container p {
+    background-color: yellow;
+    color: hsl(0, 100%, 50%);
+    font-size: 20px;
+    text-align: center;
+}
+
+div p {
+    background-color: yellow;
+    color: hsl(0, 100%, 50%);
+    font-size: 20px;
+    text-align: center;
+}
+*/
